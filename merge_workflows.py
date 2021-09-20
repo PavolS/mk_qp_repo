@@ -71,4 +71,4 @@ def main(argv):
 
 if __name__ == "__main__":
     main(sys.argv)
-    sys.exit(1)
+    sys.exit(0)
